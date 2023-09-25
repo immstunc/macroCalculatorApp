@@ -1,0 +1,8 @@
+C:\Users\merve\OneDrive\Masaüstü\C#Projects\MakroHesaplamaClass\MakroHesaplamaClass\bin\Debug\MakroHesaplamaClass.exe.config
+C:\Users\merve\OneDrive\Masaüstü\C#Projects\MakroHesaplamaClass\MakroHesaplamaClass\bin\Debug\MakroHesaplamaClass.exe
+C:\Users\merve\OneDrive\Masaüstü\C#Projects\MakroHesaplamaClass\MakroHesaplamaClass\bin\Debug\MakroHesaplamaClass.pdb
+C:\Users\merve\OneDrive\Masaüstü\C#Projects\MakroHesaplamaClass\MakroHesaplamaClass\obj\Debug\MakroHesaplamaClass.csproj.AssemblyReference.cache
+C:\Users\merve\OneDrive\Masaüstü\C#Projects\MakroHesaplamaClass\MakroHesaplamaClass\obj\Debug\MakroHesaplamaClass.csproj.SuggestedBindingRedirects.cache
+C:\Users\merve\OneDrive\Masaüstü\C#Projects\MakroHesaplamaClass\MakroHesaplamaClass\obj\Debug\MakroHesaplamaClass.csproj.CoreCompileInputs.cache
+C:\Users\merve\OneDrive\Masaüstü\C#Projects\MakroHesaplamaClass\MakroHesaplamaClass\obj\Debug\MakroHesaplamaClass.exe
+C:\Users\merve\OneDrive\Masaüstü\C#Projects\MakroHesaplamaClass\MakroHesaplamaClass\obj\Debug\MakroHesaplamaClass.pdb
